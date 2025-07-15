@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # -------------------- SETUP --------------------
-API_KEY = 'RGAPI-36b2fb3a-6d65-40aa-951a-33539dc7bf5e'
+API_KEY = 'INSERTAPIHERE'
 HEADERS = {'X-Riot-Token': API_KEY}
 REGION = 'na1'
 AMERICAS = 'americas'
