@@ -16,6 +16,3 @@ This project analyzes how different champions in League of Legends scale across 
 
 ## Repository Author
 Varun Pedavalli
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
